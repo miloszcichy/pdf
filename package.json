@@ -1,0 +1,12 @@
+{
+  "name": "pdf",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "html2pdf.js": "^0.10.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
